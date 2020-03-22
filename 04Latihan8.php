@@ -1,0 +1,8 @@
+# file-04Latihan8
+Pemrograman Web 2
+<?php 
+for($i = 1 ;$i< 11 ;$i++) { 
+if ($i % 2 == 0 ) continue ; 
+else echo$i ; 
+} 
+?>
